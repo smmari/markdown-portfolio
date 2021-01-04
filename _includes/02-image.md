@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of trees and sky](https://makeawebsitehub.com/wp-content/uploads/2014/12/Life-of-Pix-free-stock-photos-trees-autumn-leaves-sky-leeroy.jpg)
