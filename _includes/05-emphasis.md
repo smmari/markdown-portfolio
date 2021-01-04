@@ -1,0 +1,1 @@
+I am an **ISTQB certified** manual Software Tester. I am very vell familiar with **SDLC** and have experience to perform any activity of **STLC**. I miss a fresh hands-on experience that I am focused to acquire in GItHub contributing in open source projects.  
